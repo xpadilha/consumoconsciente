@@ -1,0 +1,28 @@
+body{
+    background-size: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+h1 {
+    
+    color: rgb(115, 236, 151);
+    font-size: 20px;
+}
+
+.image-container{
+    text-align: center;
+}
+.imagem{
+border: 10px solid coral;
+border-radius: 20px;
+border-image-width: 50px;
+}
+p{
+    text-indent: 2em;
+}
+
+
+.cs2{
+    width: 500px;
+}
